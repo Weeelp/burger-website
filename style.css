@@ -5,10 +5,10 @@
 
 @font-face {
   font-family: 'Gilroy';
-  src: url('../Архив с файлами/Gilroy-Semibold.ttf');
+  src: url('../arh/Gilroy-Semibold.ttf');
 
   font-family: 'Merriweather';
-  src: url('../Архив с файлами/Merriweather-Black.ttf');
+  src: url('../arh/Merriweather-Black.ttf');
 }
 
 body {
@@ -18,7 +18,7 @@ body {
 }
 
 .main {
-  background-image: url('../Архив с файлами/images/group_2.png');
+  background-image: url('../arh/images/group_2.png');
   background-position: top center;
   overflow: hidden;
   background-repeat: no-repeat;
@@ -156,7 +156,7 @@ body {
 }
 
 .why {
-  background-image: url('../Архив с файлами/images/whybg.png');
+  background-image: url('../arh/images/whybg.png');
   background-position: top center;
   background-size: initial;
   padding-bottom: 180px;
@@ -186,7 +186,7 @@ body {
 }
 
 .products {
-  background-image: url('../Архив с файлами/images/burgers_bg.png');
+  background-image: url('../arh/images/burgers_bg.png');
   background-position: top center;
   background-size: 1400px;
   padding-bottom: 180px;
@@ -258,7 +258,7 @@ body {
 }
 
 .order {
-  background-image: url('../Архив с файлами/images/order_bg.png');
+  background-image: url('../arh/images/order_bg.png');
   background-position: top center;
   background-repeat: no-repeat;
   padding-bottom: 180px;
